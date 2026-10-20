@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantum Explorers** · Team ID `VTU-QFF-HC-0038` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantum Explorers)
+[⬆ Back to Top](#quantum-explorers)
 
 </div>
